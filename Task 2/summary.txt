@@ -1,0 +1,2 @@
+This task involves creating a AI driven financial chatbot prototype
+It is a Rule Based chatbot
