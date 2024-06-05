@@ -1,6 +1,6 @@
 # Gen-AI-Financial-Insights-Chatbot--BCGx--Forage-
 
-
+![BCG_X](https://github.com/theliwash/Gen-AI-Financial-Insights-Chatbot--BCGx--Forage-/assets/163035610/635919b0-9528-4353-8c41-e8d2ad07bece)
 
 ## Project Requirements
 
